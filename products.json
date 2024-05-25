@@ -1,0 +1,50 @@
+[
+    {
+     "name":"iphone",
+     "price":50000,
+     "featured":true,
+     "company":"apple"
+    },
+    {
+     "name":"iphone12",
+     "price":50000,
+     "featured":true,
+     "company":"apple"
+    },
+    {
+     "name":"watch",
+     "price":10000,
+     "company":"apple"
+    },
+    {
+     "name":"ipad",
+     "price":20000,
+     "featured":true,
+     "company":"apple"
+    },
+    {
+     "name":"phone",
+     "price":40000,
+     "featured":true,
+     "company":"one plus"
+    },
+    {
+     "name":"earphone",
+     "price":5000,
+     "featured":true,
+     "company":"JBL"
+    },
+    {
+     "name":"Headphone",
+     "price":5000,
+     "featured":true,
+     "company":"JBL"
+    },
+    {
+     "name":"buds",
+     "price":3000,
+     "featured":true,
+     "company":"realme"
+    }
+ 
+]
